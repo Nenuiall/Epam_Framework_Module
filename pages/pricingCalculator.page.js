@@ -46,7 +46,7 @@ class PricingCalculatorPage {
         return $('//md-select[@placeholder="Datacenter location"]');
     };
     get locationOfDatacenter() {
-        return $('//md-option[@id="select_option_239"][@value="europe-west3"]');
+        return $('//md-option[@id="select_option_241"][@value="europe-west3"]');
     };
     get commitedUsageField() {
         return $('//md-select[@placeholder="Committed usage"]');
