@@ -1,0 +1,9 @@
+reports/
+app/
+tests_samples/
+node_modules/
+.eslintrc.json
+.mocharc.js
+package-lock.json
+helpers/
+config/
